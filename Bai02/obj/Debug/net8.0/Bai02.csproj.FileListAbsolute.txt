@@ -1,0 +1,14 @@
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\bin\Debug\net8.0\Bai02.exe
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\bin\Debug\net8.0\Bai02.deps.json
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\bin\Debug\net8.0\Bai02.runtimeconfig.json
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\bin\Debug\net8.0\Bai02.dll
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\bin\Debug\net8.0\Bai02.pdb
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\obj\Debug\net8.0\Bai02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\obj\Debug\net8.0\Bai02.AssemblyInfoInputs.cache
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\obj\Debug\net8.0\Bai02.AssemblyInfo.cs
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\obj\Debug\net8.0\Bai02.csproj.CoreCompileInputs.cache
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\obj\Debug\net8.0\Bai02.dll
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\obj\Debug\net8.0\refint\Bai02.dll
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\obj\Debug\net8.0\Bai02.pdb
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\obj\Debug\net8.0\Bai02.genruntimeconfig.cache
+C:\Users\mammu\Desktop\LTTQ\BTTH2\Bai02\obj\Debug\net8.0\ref\Bai02.dll
